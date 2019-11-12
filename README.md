@@ -1,3 +1,10 @@
+**Forked from [apidoc](https://github.com/apidoc/apidoc), add feature to support multiple header files.**
+
+- Branch: [feature-multi-header-files](https://github.com/asmoker/apidoc/tree/feature-multi-header-files)
+- Usage: `npm install -g asmoker/apidoc#feature-multi-header-files`
+
+others: 👇️
+
 # apiDoc
 
 apiDoc creates a documentation from API descriptions in your source code.
