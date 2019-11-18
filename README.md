@@ -1,7 +1,14 @@
-**Forked from [apidoc](https://github.com/apidoc/apidoc), add feature to support multiple header files.**
+**Forked from [apidoc](https://github.com/apidoc/apidoc)**
 
-- Branch: [feature-multi-header-files](https://github.com/asmoker/apidoc/tree/feature-multi-header-files)
-- Usage: `npm install -g asmoker/apidoc#feature-multi-header-files`
+Based on tag `0.17.5`
+
+Features:
+1. Support multiple header(footer) files;
+
+Install:
+
+- Branch: [0.17.5-ext](https://github.com/asmoker/apidoc/tree/0.17.5-ext)
+- Usage: `npm install -g asmoker/apidoc#0.17.5-ext`
 
 others: 👇️
 
